@@ -9,7 +9,7 @@ It contains the following event:
 The Northern Hemisphere start summer from June 20 until it ends on (September 20 - 22).
 It contains the following event:
 • Great Heat (大暑) start from June 22 until it ends on (August 21 - 22)
-• The end of Summer Heat (处暑) start from (August 22 - 23)
+• The end of Summer Heat (处暑) start from (August 22 - 23) until it ends on (September 20 - 22)
 
 # Autumn
 The Northern Hemisphere start autumn from (September 21 - 23) until it ends on December 21.
