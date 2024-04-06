@@ -1,5 +1,4 @@
-No,Year,Easter Sun,Diff Next Year,Shift Day,Total Diff,Total Year,Next Easter Sun
-1,2024,"Sunday, March 31, 2024",21,-1,20,365,"Sunday, April 20, 2025"
+No,Year,Easter Sun,Diff Next Year,Shift Day,Total Diff,Total Year,Next Easter Sun
 2,2025,"Sunday, April 20, 2025",-14,-1,-15,365,"Sunday, April 5, 2026"
 3,2026,"Sunday, April 5, 2026",-7,-1,-8,365,"Sunday, March 28, 2027"
 4,2027,"Sunday, March 28, 2027",21,-2,19,366,"Sunday, April 16, 2028"
